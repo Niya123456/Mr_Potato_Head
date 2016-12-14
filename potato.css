@@ -57,7 +57,10 @@ h1 {
 
 
 /* Insert CSS for hat below this line*/
-
+#hat_image {
+  top: 16px; 
+  left:100px;
+   }
 
 
 
